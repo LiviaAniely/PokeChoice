@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+.container{
+    background-color: #F0E68C;
+    height: 90px; 
+    margin-bottom: 50px;
+    box-shadow: 0px 5px 5px #B22222;
+}
+
+.title{
+
+    color:#B22222;
+    font-size: 30px;
+    margin-left: 5%;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.subtitle{
+    color: #FF0000;
+    font-size: 20px;
+    margin-left: 5%;
+}
+
+a{
+    color: #FF0000;
+    text-decoration: none;
+}
+
+a:hover{
+    color:#B22222;
+}

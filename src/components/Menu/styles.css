@@ -1,0 +1,20 @@
+.menu{
+    position: absolute;
+    top: 30px;
+    right: 5%;
+    font-weight: bold;
+    display: flex;
+}
+
+.menu a{
+    text-decoration: none;
+}
+
+.social{
+    margin-right: 14px;
+    display: flex;
+    align-items: center;
+}
+
+
+
